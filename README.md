@@ -14,8 +14,8 @@ TypeScript </br>
 🚀 Como executar </br>
 </br>
 Clone o repositório  </br>
-Instale as dependências com yarn </br>
-Inicie o servidor com yarn dev </br>
+Instale as dependências com: yarn </br>
+Inicie o servidor com: yarn dev </br>
 Acesse o endereço localhost:3000 no seu navegador. </br>
 </br>
 
